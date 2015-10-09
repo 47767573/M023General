@@ -1,0 +1,41 @@
+/**
+ * 
+ */
+package Excepciones;
+
+/**
+ * @author 47767573
+ *
+ */
+public class Ejercicio4 extends Exception{
+
+	String excepcion;
+	
+	
+	/**
+	 * @param args
+	 */
+	public Ejercicio4 (String X){
+		super();
+		excepcion = X;		
+	}	
+	
+	
+	public static void main (String[] Args){
+		try{
+			
+						
+		}catch (exception e){
+			
+		}
+	
+	
+	@Override
+	public String toString() {
+		return excepcion +"es una Excepcion Ejercicio4 de "+ super.toString();
+	}
+	
+		
+	
+	
+}

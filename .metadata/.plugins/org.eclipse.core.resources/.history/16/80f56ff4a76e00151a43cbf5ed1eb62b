@@ -1,0 +1,15 @@
+package Excepciones;
+
+public class ExcepcionPadre {
+
+	public static void main(String[] args) {		
+		
+
+	}
+	
+	
+	public static void excepcionTipoA (String e) {
+		System.out.println("Este error es del tipo 1");
+	}
+
+}
