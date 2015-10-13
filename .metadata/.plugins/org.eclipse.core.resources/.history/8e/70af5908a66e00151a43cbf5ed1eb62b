@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package Excepciones;
+
+/**
+ * @author 47767573t
+ *
+ */
+public interface Xception {
+
+	
+	
+}

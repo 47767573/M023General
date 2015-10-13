@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package Excepciones;
+
+/**
+ * @author 47767573
+ *
+ */
+public class Ejercicio4 extends Xception{
+
+	String excepcion;
+	
+	
+	/**
+	 * @param args
+	 */
+	public Ejercicio4 (String X){
+		excepcion = X;		
+	}
+	
+		
+	public static void main(String[] args) {
+		
+	}
+	
+}
